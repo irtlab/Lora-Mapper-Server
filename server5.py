@@ -1,3 +1,9 @@
+#Written By:
+#Hayagreevan Sriran
+#hs3387@columbia.edu
+#Columbia University
+
+
 from flask import Flask, request, Response
 import threading
 import paho.mqtt.client as mqtt
