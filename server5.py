@@ -15,8 +15,8 @@ map_output_file = "map_info.json"
 # MQTT Broker details
 MQTT_BROKER = "nam1.cloud.thethings.network"
 MQTT_PORT = 1883
-MQTT_USERNAME = "irt-lora-app@ttn"
-MQTT_PASSWORD = "NNSXS.JE6XVMLMCELW6FLICEXHHMHXU4WJRW4XMUURKGQ.K2R3JYCRTTDZJUCAENOSNSIZY6WA2B2M3PZPES5GHHRXMXFOBV3Q"
+##MQTT_USERNAME = ##Removed for publication
+##MQTT_PASSWORD = ##Removed for publication
 MQTT_TOPIC = "#"
 
 #buffer
