@@ -16,3 +16,6 @@ Server to use with lora mapper device and TTNMapper to generate uplink and downl
 - Edit lines 16-20 to update MQTT stream access
 - Run python3 server5.py
 - Trigger test device and observer console output
+
+
+*Latest Version as on 25 Dec 2023 Written by Hayagreevan Sriram for the IRT Lab*
